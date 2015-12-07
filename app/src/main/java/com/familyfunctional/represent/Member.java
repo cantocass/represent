@@ -1,4 +1,4 @@
-package com.familyfunctional.whorepresentsme;
+package com.familyfunctional.represent;
 
 import android.os.Parcel;
 import android.os.Parcelable;

@@ -1,4 +1,4 @@
-package com.familyfunctional.whorepresentsme;
+package com.familyfunctional.represent;
 
 import org.junit.Test;
 

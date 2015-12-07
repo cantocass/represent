@@ -1,6 +1,4 @@
-package com.familyfunctional.whorepresentsme;
-
-import java.util.List;
+package com.familyfunctional.represent;
 
 import retrofit.Call;
 import retrofit.http.GET;

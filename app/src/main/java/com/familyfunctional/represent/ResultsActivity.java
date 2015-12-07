@@ -1,4 +1,4 @@
-package com.familyfunctional.whorepresentsme;
+package com.familyfunctional.represent;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

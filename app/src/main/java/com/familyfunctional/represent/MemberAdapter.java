@@ -1,4 +1,4 @@
-package com.familyfunctional.whorepresentsme;
+package com.familyfunctional.represent;
 
 import android.content.Context;
 import android.content.Intent;

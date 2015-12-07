@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.familyfunctional.whorepresentsme">
+    package="com.familyfunctional.represent">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
 
     <application
-        android:name=".MyApplication"
+        android:name="com.familyfunctional.com.familyfunctional.represent.MyApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_label"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".MainActivity"
+        <activity android:name="com.familyfunctional.com.familyfunctional.represent.MainActivity"
             android:windowSoftInputMode="adjustResize"
             android:screenOrientation="portrait"
             android:configChanges="orientation">
@@ -25,13 +25,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ResultsActivity"
-            android:parentActivityName=".MainActivity"
+            android:name="com.familyfunctional.com.familyfunctional.represent.ResultsActivity"
+            android:parentActivityName="com.familyfunctional.com.familyfunctional.represent.MainActivity"
             android:screenOrientation="portrait"
             android:configChanges="orientation">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.familyfunctional.com.familyfunctional.represent.MainActivity" />
         </activity>
     </application>
 
