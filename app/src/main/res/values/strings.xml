@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Who Represents Me</string>
+    <string name="app_label">Represent</string>
+    <string name="find_congress_members">Find Congress Members</string>
+    <string name="use_my_location">Use My Location</string>
+    <string name="use_another_location">Use Above Location</string>
+    <string name="your_representatives">Your Congressional Representation</string>
+    <string name="or">OR</string>
+    <string name="representative">Representative</string>
+    <string name="senator">Senator</string>
+    <string name="zip_hint">Zip</string>
+    <string name="location_unavailable">"Error: try entering ZIP code, or enabling location"</string>
+    <string name="location_permission_required">"Location access is required to find your representative."</string>
+    <string name="ok">OK</string>
+    <string name="go">GO</string>
+    <string name="empty_zip">00000</string>
+</resources>
